@@ -1,4 +1,4 @@
-Systematic Analysis of Scalable RL for Dots and Boxes
+# Systematic Analysis of Scalable RL for Dots and Boxes
 
 ## Project Overview
 **Title**: "Systematic Analysis of Scalable Reinforcement Learning for Dots and Boxes: From 3x3 to Large Boards"
